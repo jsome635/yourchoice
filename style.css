@@ -1,0 +1,153 @@
+.ui.nexon.borderless.menu.item {
+  box-shadow: none;
+  height: 42px;
+  background-color: #2B2F36;
+  border-width: 20px;
+  padding-bottom: 20px;
+}
+
+.ui.nexon.borderless.menu.item .left.column {
+  margin: 0px;
+  padding: 15px;
+}
+
+.ui.nexon.borderless.menu.item .ui.left.floated.segment {
+  margin: 0px 0px 0px 5px;
+  background: none;
+  padding: 0px;
+}
+
+.ui.nexon.borderless.menu.item .ui.right.floated.green.basic.button {
+  margin-right: 20px;
+}
+
+.ui.nexon.borderless.menu.item .ui.right.floated.blue.basic.button {
+  margin-right: 5px;
+}
+
+.ui.nexon.borderless.menu.item .button {
+  padding-right: 20px;
+  height: 30px;
+  width: 85px;
+}
+
+.ui.fluid.navbar.divider.item {
+  margin: 0px;
+  padding: 0px;
+  background: linear-gradient(to right, #166FA5, #93B520);
+  height: 2px;
+}
+
+.ui.vindictus.borderless.menu.item {
+  box-shadow: none;
+  height: 45px;
+  background-color: #132329;
+  border-bottom: #67748a;
+  padding-bottom: 40px;
+}
+
+.ui.vindictus.borderless.menu.item .left.column {
+  padding: 7px 0px 10px 30px;
+}
+
+.ui.vindictus.borderless.menu.item .vindictus.column {
+  margin: 0px;
+  padding-top: 7px;
+}
+
+.ui.vindictus.borderless.menu.item .right.column {
+  padding: 7px 14px 14px 14px;
+}
+
+.ui.vindictus.borderless.menu.item .ui.left.floated.segment {
+  margin: 0px 0px 0px 20px;
+  background: none;
+  padding: 0px;
+  color: white;
+}
+
+.ui.vindictus.borderless.menu.item .ui.middle.aligned.image {
+  margin: 0px;
+  padding: 0px;
+  width: 175px;
+}
+
+.ui.vindictus.borderless.menu.item .button {
+  margin-right: 15px;
+  height: 40px;
+  width: 180px;
+}
+
+.ui.fluid.vindictus.divider.item {
+  margin: 0px;
+  padding: 0px;
+  background: #67748a;
+  height: 2px;
+}
+
+.ui.centered.fluid.highlight.container.image {
+  margin-top: 100px;
+  padding-top: 40px;
+  background-image: url('170109_hero_aes-v2.jpg');
+  background-position: center;
+  background-size: cover;
+  width: 1501px;
+  height: 832px;
+}
+
+.ui.centered.fluid.highlight.image .ui.highlight.container {
+  margin: 112px;
+}
+
+.ui.centered.fluid.highlight.image .middle.column {
+  width: 475px;
+  height: 400px;
+}
+
+.ui.centered.fluid.highlight.image .arrow.column {
+  width: 100px;
+  padding-top: 200px;
+}
+
+.ui.centered.fluid.highlight.image .ui.update.segment {
+  margin: 0px;
+  padding: 100px 100px 0px 100px;
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+.ui.centered.fluid.highlight.image .update.column {
+  padding-top: 18px;
+}
+
+.ui.centered.fluid.highlight.image .ui.medium.center.aligned.darkred.header {
+  color: darkred;
+}
+
+.ui.centered.fluid.highlight.image .ui.update.divider {
+  padding: 0px 10px 0px 10px;
+  background: darkred;
+}
+
+.ui.centered.fluid.highlight.image .ui.huge.center.aligned.black.inverted.header {
+  margin-top: 12px;
+  font-size: 40px
+}
+
+.ui.centered.fluid.highlight.image .ui.center.aligned.segment {
+  padding-top: 30px;
+  background: none;
+}
+
+.ui.centered.fluid.highlight.container.image .ui.bottom.fluid.segment {
+  background: none;
+}
+
+.ui.centered.fluid.highlight.container.image .ui.black.inverted.basic.button {
+  padding: 2px;
+}
+
+.ui.centered.fluid.highlight.container.image .ui.button-background.segment {
+  background-color: #010202;
+}
